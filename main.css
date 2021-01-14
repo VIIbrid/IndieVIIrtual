@@ -13,17 +13,17 @@ body {
      background:#200;
      margin: auto;
      padding: 10px;
-     max-width:25%;
+     max-width:35%;
      color:#CCC;
      text-align: left;
      font-size: 13px;
 }
 
 .track {
-     background:#100;
+     background:#200;
      margin: auto;
      padding: 10px;
-     max-width:25%;
+     max-width:35%;
      color:white;
      text-align: center;
      font-size: 15px;
