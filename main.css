@@ -1,0 +1,16 @@
+body {
+     background:#100;
+     font-family:courier;
+}
+
+.text {
+     color:#F00;
+     text-align: center;
+}
+
+.foot {
+     color:#400;
+     position: fixed;
+     right: 10px;
+     bottom: 10px;
+}
