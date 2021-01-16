@@ -41,6 +41,13 @@ body {
      bottom: 10px;
 }
 
+.image {
+     margin: auto;
+     padding: 0px;
+     max-width:35%;
+     text-align: center;
+}
+
 a {
   color:#F00;
 }
