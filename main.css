@@ -7,13 +7,14 @@ body {
 
 .header {
      text-align:center;
+     height:13vh;
 }
 
 .portal-room {
      display:flex;
-     justify-content: center;
-     align-items: center;
-     height: 80vh;
+     justify-content:center;
+     align-items:center;
+     height:70vh;
 }
 
 .portal {
@@ -22,8 +23,8 @@ body {
 
 .foot {
      color:#C62121;
-     position: fixed;
-     right: 10px;
-     bottom: 10px;
+     position:fixed;
+     right:10px;
+     bottom:10px;
      font-family:courier;
 }
