@@ -42,8 +42,8 @@ body {
 }
 
 .imeg {
-     margin: auto;
-     padding: 10px;
+     margin: 0px;
+     padding: 0px;
      max-width:35%;
      color:white;
      text-align: center;
