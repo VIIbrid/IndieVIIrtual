@@ -41,11 +41,14 @@ body {
      bottom: 10px;
 }
 
-.image {
+.imeg {
+     background:black;
      margin: auto;
-     padding: 0px;
+     padding:0px;
      max-width:35%;
+     color:white;
      text-align: center;
+     font-size: 15px;
 }
 
 a {
