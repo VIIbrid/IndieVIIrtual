@@ -42,9 +42,9 @@ body {
 }
 
 .imeg {
-     background:black;
+     background:#200;
      margin: auto;
-     padding:0px;
+     padding: 10px;
      max-width:35%;
      color:white;
      text-align: center;
