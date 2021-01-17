@@ -3,7 +3,12 @@ body {
      color:white;
      margin:0px;
      padding:0px;
-     font-family:monospace;
+}
+
+a {
+     color:#E55;
+     text-decoration:none;
+     font-weight:bold;
 }
 
 .header {
@@ -36,5 +41,31 @@ body {
      text-align:center;
      font-size:40px;
      font-family:georgia;
-     font:white;
+     color:white;
+}
+
+.box {
+     margin-left:25vw;
+     width:50vw;
+     padding:10px;
+     padding-bottom:20px;
+
+     background:#311;
+
+     font-family:monospace;
+     color:white:
+}
+
+.title {
+     background:black;
+     padding:10px;
+     margin-bottom:20px;
+
+     text-align:center;
+     font-size:16px;
+}
+
+.subtitle {
+     font-size:10px;
+     color:gray;
 }
