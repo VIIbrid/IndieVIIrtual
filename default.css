@@ -3,4 +3,38 @@ body {
      color:white;
      margin:0px;
      padding:0px;
+     font-family:monospace;
+}
+
+.header {
+     height:70px;
+     position:fixed;
+     top:0;
+     width:100%;
+     text-align:center;
+     background:black;
+}
+
+.portal {
+     margin:10px;
+}
+
+.page {
+     margin-top:70px;
+     margin-left:1vw;
+     margin-right:1vw;
+     margin-bottom:5vh;
+}
+
+.indev {
+     margin-top:40vh;
+     padding-top:30px;
+     padding-bottom:1px;
+     width:50vw;
+     margin-left:25vw;
+     background:#311;
+     text-align:center;
+     font-size:40px;
+     font-family:georgia;
+     font:white;
 }
